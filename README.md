@@ -156,13 +156,9 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 </a>
 
 
-![Indratej's Graph](https://github-readme-activity-graph.vercel.app/graph?username=indratejreddy&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Indratej's Graph](https://github-readme-activity-graph.vercel.app/graph?username=indratejreddy&custom_title=Indratej's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indratejreddy&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=indratejreddy&theme=synthwave&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indratejreddy&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 Cosmic Achievements:
 
