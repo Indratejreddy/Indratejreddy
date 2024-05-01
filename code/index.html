@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Typing Effect</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        overflow: hidden; /* Hide scrollbars */
+        margin: 0; /* Remove default body margin */
+        padding: 0; /* Remove default body padding */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-image: url("https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/main/bgimages/bg.png");
+        background-size: cover; /* Cover the entire body with the background image */
+        background-position: center; /* Center the background image */
+      }
+
+      .container {
+        text-align: center;
+      }
+
+      .console-container {
+        font-family: "Orbitron", sans-serif;
+        font-size: 4vw;
+        color: white;
+        padding: 20px; /* Add padding for better visibility */
+        border-radius: 10px; /* Add border radius for better appearance */
+      }
+
+      .text-background {
+        background-color: rgba(
+          0,
+          0,
+          0,
+          0.8
+        ); /* Background color with 80% opacity */
+        transition: background-color 0.5s ease; /* Transition effect */
+      }
+
+      .console-underscore {
+        display: inline-block;
+        position: relative;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="console-container">
+        <span id="text" class="text-background"></span>
+        <div class="console-underscore" id="cursor">|</div>
+      </div>
+    </div>
+
+    <script>
+      typing_effect(
+        [
+          "Hello, Universe! ",
+          "My name is",
+          "Indratej Reddy ",
+          "I am a FullStack developer",
+        ],
+        ["#03A062"]
+      );
+
+      function typing_effect(words, colors) {
+        var cursor = document.getElementById("cursor");
+        var text = document.getElementById("text");
+        var blink = true;
+        var wait = false;
+        var letters_count = 1;
+        var temp = 1;
+
+        text.style.color = colors[0];
+        setInterval(function () {
+          if (letters_count === 0 && wait === false) {
+            wait = true;
+            text.innerHTML = "";
+            setTimeout(function () {
+              var usedColor = colors.splice(0, 1)[0];
+              colors.push(usedColor);
+              var usedWord = words.splice(0, 1)[0];
+              words.push(usedWord);
+              temp = 1;
+              text.style.color = colors[0];
+              letters_count += temp;
+              wait = false;
+            }, 1000);
+          } else if (letters_count === words[0].length + 1 && wait === false) {
+            wait = true;
+            setTimeout(function () {
+              temp = -1;
+              letters_count += temp;
+              wait = false;
+            }, 1000);
+          } else if (wait === false) {
+            text.innerHTML = words[0].substr(0, letters_count);
+            letters_count += temp;
+            // Change background color to black when typing
+            text.classList.add("text-background");
+          }
+        }, 120);
+
+        setInterval(function () {
+          if (blink) {
+            cursor.style.opacity = "0";
+            blink = false;
+          } else {
+            cursor.style.opacity = "1";
+            blink = true;
+          }
+        }, 400);
+      }
+    </script>
+  </body>
+</html>
