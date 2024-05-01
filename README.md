@@ -1,4 +1,4 @@
-# 👋 Greetings, Earthling! I'm Indratej Reddy!
+# ![Typing Effect](https://github.com/Indratejreddy/IndratejReddy/blob/main/bgimages/bggif.gif)
 
 Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey through the realms of code and creativity.
 
