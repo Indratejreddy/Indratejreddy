@@ -56,4 +56,6 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 
 [![Profile Visits](https://visitcount.itsvg.in/api?id=indratejreddy&icon=0&color=0)](https://visitcount.itsvg.in)
 
+Body of an athlete, mind of a stoic, spirit of a warrior, heart of a poet, and code like Linus Torvalds—that's the goal.
+
 <!-- Crafted with cosmic energy and GPRM (https://gprm.itsvg.in) -->
