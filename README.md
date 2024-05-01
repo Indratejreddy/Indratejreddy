@@ -101,7 +101,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.google.com/search?q=indratej+reddy" >Indratej Reddy</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/indratejreddy/" >Indratej Reddy</a></b>
         </samp>
 </h3>
 
