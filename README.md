@@ -116,6 +116,22 @@
   </samp>
 </p>
 
+
+
+
+
+Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey through the realms of code and creativity.
+
+## 🌟 Stellar Introduction:
+
+🚀 Journeying through the stars, I'm currently honing my coding prowess with daily doses of LeetCode challenges. #LeetCodeDaily  
+📚 Amidst the cosmic chaos, I'm delving deeper into the cosmic mysteries of Data Structures and Algorithms (DSA).  
+💻 Explore the galaxies of my projects at [my repository hub](https://github.com/Indratejreddy?tab=repositories).  
+📝 Care to embark on a cosmic odyssey? Follow my cosmic chronicles on [my blog](https://indratejreddy.hashnode.dev/).  
+📫 For any cosmic queries or collaboration opportunities, beam me a transmission via [LinkedIn](https://linkedin.com/in/indratejreddy/).  
+
+## 🚀 Galactic Connections:
+
 <p align="center">
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
@@ -137,20 +153,6 @@
   </a> 
 </p>
 <br />
-
-
-
-Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey through the realms of code and creativity.
-
-## 🌟 Stellar Introduction:
-
-🚀 Journeying through the stars, I'm currently honing my coding prowess with daily doses of LeetCode challenges. #LeetCodeDaily  
-📚 Amidst the cosmic chaos, I'm delving deeper into the cosmic mysteries of Data Structures and Algorithms (DSA).  
-💻 Explore the galaxies of my projects at [my repository hub](https://github.com/Indratejreddy?tab=repositories).  
-📝 Care to embark on a cosmic odyssey? Follow my cosmic chronicles on [my blog](https://indratejreddy.hashnode.dev/).  
-📫 For any cosmic queries or collaboration opportunities, beam me a transmission via [LinkedIn](https://linkedin.com/in/indratejreddy/).  
-
-## 🚀 Galactic Connections:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/indratejreddy/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techlifejournal)
