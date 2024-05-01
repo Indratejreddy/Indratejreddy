@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/main/bgimages/bggif1.gif" />
+# <img src="https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/main/bgimages/bggif1.gif" width="100%"/>
 
 
 Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey through the realms of code and creativity.
