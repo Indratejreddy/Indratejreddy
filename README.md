@@ -135,6 +135,9 @@ Venturing across the cosmic expanse, I wield the power of:
 Embark on this cosmic journey with me, and together we'll unlock the secrets of the universe!
 
 
+
+<img src='https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/main/bgimages/optimized_indratejreddy_github_meme_dark.gif' style="width: 100%"/>
+
 <br/>
 
 <p >
