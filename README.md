@@ -140,6 +140,7 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 
 Venturing across the cosmic expanse, I wield the power of:
 
+![Javascript](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -163,9 +164,10 @@ Venturing across the cosmic expanse, I wield the power of:
 
 <br/>
 
-Embark on this cosmic journey with me, and together we'll unlock the secrets of the universe!
+
 
 ## 🪐 Cosmic GitHub Stats:
+Embark on this cosmic journey with me, and together we'll unlock the secrets of the universe!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indratejreddy&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=indratejreddy&theme=synthwave&hide_border=false)  
