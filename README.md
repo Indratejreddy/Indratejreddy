@@ -130,11 +130,14 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
  <a href="https://facebook.com/alsiam.dev" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
+  <a href="https://youtube.com/@techlifejournal" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="alsiam"  />
+  </a>
+  <a href="https://facebook.com/alsiam.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a>
 </p>
 <br />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/indratejreddy/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techlifejournal)
 
 ## 🌌 Cosmic Tech Stack:
 
