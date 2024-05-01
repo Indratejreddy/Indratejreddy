@@ -138,11 +138,12 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 
 <img src='https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/main/bgimages/optimized_indratejreddy_github_meme_dark.gif' style="width: 100%"/>
 
-<picture>
+<picture width="100%">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/7fc407f50dce0cfc5c20b64171a2b5a409c0a673/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/7fc407f50dce0cfc5c20b64171a2b5a409c0a673/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/7fc407f50dce0cfc5c20b64171a2b5a409c0a673/github-contribution-grid-snake-dark.svg" style="width:100%;">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/7fc407f50dce0cfc5c20b64171a2b5a409c0a673/github-contribution-grid-snake-dark.svg">
 </picture>
+
 
 
 
