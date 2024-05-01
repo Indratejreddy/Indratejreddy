@@ -161,7 +161,8 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 
 ## 🌠 Cosmic Wisdom:
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="background-color: transparent;" alt="Random Dev Quote">
+
 
 
 ## 🌌 Explore the Cosmos:
