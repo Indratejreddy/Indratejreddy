@@ -137,13 +137,13 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 
 <br/>
 
-<p align="center">
+<p >
   <a href="https://github.com/alsiam">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
-<p align="center">
+<p >
   <a href="https://github.com/alsiam">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
