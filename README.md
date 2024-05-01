@@ -132,7 +132,7 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 
 ## 🚀 Galactic Connections:
 
-<p align="center">
+<p>
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
