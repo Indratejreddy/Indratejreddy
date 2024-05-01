@@ -101,14 +101,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Indratej Reddy</a></b>
+                <b><a target="_blank" href="https://www.google.com/search?q=indratej+reddy" >Indratej Reddy</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=indratej+reddy">「 Google Me 」</a>
+    <a target="_blank" href="https://www.google.com/search?q=indratej+reddy">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Bangladesh</b> 」
     <br>
