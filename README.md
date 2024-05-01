@@ -24,6 +24,7 @@
 
 # <img src="https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/main/bgimages/bggif1.gif" width="100%"/>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
