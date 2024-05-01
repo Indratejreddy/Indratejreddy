@@ -155,7 +155,9 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 
 ## 🏆 Cosmic Achievements:
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=indratejreddy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=indratejreddy&theme=dracula)
 
 ## 🌠 Cosmic Wisdom:
 
