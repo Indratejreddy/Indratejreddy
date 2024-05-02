@@ -9,7 +9,6 @@
         </samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
     <a  href="https://www.google.com/search?q=indratej+reddy" target="_blank">「 Google Me 」</a>
@@ -20,7 +19,7 @@
   </samp>
 </p>
 Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey through the realms of code and creativity.
-
+<br>
 
 ## 🌟 Stellar Introduction:
 🚀 Journeying through the stars, I'm currently honing my coding prowess with daily doses of LeetCode challenges. #LeetCodeDaily  
@@ -57,8 +56,7 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a>
 </p>
-<br />
-
+<br>
 
 ## 🌌 Cosmic Tech Stack:
 Venturing across the cosmic expanse, I wield the power of:
@@ -85,7 +83,7 @@ Venturing across the cosmic expanse, I wield the power of:
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
+<br>
 
 ## 🪐 Cosmic GitHub Stats:
 Embark on this cosmic journey with me, and together we'll unlock the secrets of the universe!
@@ -129,23 +127,25 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 <p align="left">
   <a href="https://github.com/Indratejreddy?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-<br/>
+
 <hr/>
+<br>
 
 ## 🏆 Cosmic Achievements:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=indratejreddy&theme=dracula)
+<br>
 
 ## 🌠 Cosmic Wisdom:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="background-color: transparent;" alt="Random Dev Quote">
-
+<br>
 
 ## 🌌 Explore the Cosmos:
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=indratejreddy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
 
 ## 🛸 Cosmic Humor:
-
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+<br>
 ---
 
 [![Profile Visits](https://visitcount.itsvg.in/api?id=indratejreddy&icon=0&color=0)](https://visitcount.itsvg.in)
