@@ -117,9 +117,9 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 
 
 ![Indratej's Graph](https://github-readme-activity-graph.vercel.app/graph?username=indratejreddy&custom_title=Indratej's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br>
 
-
-## Top Open Source -
+## Top Open Source:
 [![Dev-Dash-Backend VS Code Extension](https://github-readme-stats.vercel.app/api/pin/?username=indratejreddy&repo=Dev-Dash-Backend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/indratejreddy/Dev-Dash-Backend)
 [![RajasthanHackathon-project](https://github-readme-stats.vercel.app/api/pin/?username=indratejreddy&repo=rajasthanhackathon&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Indratejreddy/rajasthanhackathon)
 [![VIDYUT](https://github-readme-stats.vercel.app/api/pin/?username=indratejreddy&repo=VIDYUT&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Indratejreddy/VIDYUT)
