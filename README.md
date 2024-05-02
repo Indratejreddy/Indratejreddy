@@ -26,7 +26,8 @@
 
 Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey through the realms of code and creativity.
 
-<h2 style="font-size: 20px;">🌟 Stellar Introduction:</h2>
+<div style="font-size: 20px;">🌟 Stellar Introduction:</div>
+
 
 
 
