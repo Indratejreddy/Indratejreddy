@@ -86,7 +86,7 @@ Venturing across the cosmic expanse, I wield the power of:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-## 🪐 Cosmic GitHub Stats:
+## 🪐 Cosmic GitHub Stats: ##
 Embark on this cosmic journey with me, and together we'll unlock the secrets of the universe!
 
 <img src='https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/main/bgimages/original_indratejreddy_github_meme_dark.gif' style="width: 100%"/>
