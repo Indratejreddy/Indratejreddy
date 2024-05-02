@@ -140,7 +140,7 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 <br>
 
 ## 🌌 Explore the Cosmos:
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=indratejreddy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=indratejreddy&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 <br>
 
 ## 🛸 Cosmic Humor:
