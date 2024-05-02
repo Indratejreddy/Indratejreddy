@@ -19,29 +19,18 @@
     <br>
   </samp>
 </p>
-
-
-
-
-
 Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey through the realms of code and creativity.
 
-<p style="font-size: 20px;">🌟 Stellar Introduction:</p>
 
-
-
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+## 🌟 Stellar Introduction:
 🚀 Journeying through the stars, I'm currently honing my coding prowess with daily doses of LeetCode challenges. #LeetCodeDaily  
 📚 Amidst the cosmic chaos, I'm delving deeper into the cosmic mysteries of Data Structures and Algorithms (DSA).  
 💻 Explore the galaxies of my projects at [my repository hub](https://github.com/Indratejreddy?tab=repositories).  
 📝 Care to embark on a cosmic odyssey? Follow my cosmic chronicles on [my blog](https://indratejreddy.hashnode.dev/).  
 📫 For any cosmic queries or collaboration opportunities, beam me a transmission via [LinkedIn](https://linkedin.com/in/indratejreddy/).  
 
-## 🚀 Galactic Connections:
 
+## 🚀 Galactic Connections:
 <p>
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
@@ -70,8 +59,8 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 </p>
 <br />
 
-## 🌌 Cosmic Tech Stack:
 
+## 🌌 Cosmic Tech Stack:
 Venturing across the cosmic expanse, I wield the power of:
 
 ![Javascript](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -97,13 +86,8 @@ Venturing across the cosmic expanse, I wield the power of:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-
-
 ## 🪐 Cosmic GitHub Stats:
 Embark on this cosmic journey with me, and together we'll unlock the secrets of the universe!
-
-
 
 <img src='https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/main/bgimages/original_indratejreddy_github_meme_dark.gif' style="width: 100%"/>
 
@@ -112,11 +96,6 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/7fc407f50dce0cfc5c20b64171a2b5a409c0a673/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/7fc407f50dce0cfc5c20b64171a2b5a409c0a673/github-contribution-grid-snake-dark.svg">
 </picture>
-
-
-
-
-
 <br/>
 
 <p >
@@ -149,25 +128,17 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 <p align="left">
   <a href="https://github.com/Indratejreddy?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
 <br/>
 <hr/>
 
-
 ## 🏆 Cosmic Achievements:
-
-
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=indratejreddy&theme=dracula)
 
 ## 🌠 Cosmic Wisdom:
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="background-color: transparent;" alt="Random Dev Quote">
 
 
-
 ## 🌌 Explore the Cosmos:
-
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=indratejreddy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🛸 Cosmic Humor:
