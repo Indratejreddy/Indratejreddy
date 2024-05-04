@@ -170,6 +170,8 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="background-color: transparent;" alt="Random Dev Quote">
 <br>
 
+<img src="https://quotes-github-readme.vercel.app/api?quote=Body of an athlete, mind of a stoic, spirit of a warrior, heart of a poet, and code like Linus Torvalds—that's the goal.&type=horizontal&theme=radical">
+<br>
 ## 🌌 Explore the Cosmos:
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=indratejreddy&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 <br>
