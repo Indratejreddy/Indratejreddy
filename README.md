@@ -42,7 +42,6 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 ## 🚀 Galactic Connections:
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQwemd4cjFweHk1aWtkaXY4YnJrcnk4cjJ4am1ncTljdWloOWpvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" style="max-width: 100%; display: inline-block;">
 
-
 <p>
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
@@ -75,16 +74,10 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
-
-
-
 
 ## 🌌 Cosmic Tech Stack:
 Venturing across the cosmic expanse, I wield the power of:
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFrenVkeWVrYjRnamo0NmE0Z2JqbWhwZGEwNGFvMHo2am9jMTJicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9DaWX2otgnhyHQoY8V/giphy.gif" style="max-width: 100%; display: inline-block;">
 
 ![Javascript](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
