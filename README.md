@@ -33,11 +33,7 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 📝 **Care to embark on a cosmic odyssey?** Follow my cosmic chronicles on [my blog](https://indratejreddy.hashnode.dev/).
 
 📫 **For any cosmic queries or collaboration opportunities**, beam me a transmission via [LinkedIn](https://linkedin.com/in/indratejreddy/).
-
 <br>
-
-<br>
-
 
 ## 🚀 Galactic Connections:
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQwemd4cjFweHk1aWtkaXY4YnJrcnk4cjJ4am1ncTljdWloOWpvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" style="width: 500px; height:250px; display: inline-block;">
@@ -70,11 +66,6 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 </p>
 <br>
 
-<br>
-<br>
-<br>
-<br>
-
 ## 🌌 Cosmic Tech Stack:
 Venturing across the cosmic expanse, I wield the power of:
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFrenVkeWVrYjRnamo0NmE0Z2JqbWhwZGEwNGFvMHo2am9jMTJicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9DaWX2otgnhyHQoY8V/giphy.gif" style="width: 500px; height:250px;  display: inline-block;">
@@ -100,7 +91,6 @@ Venturing across the cosmic expanse, I wield the power of:
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 <br>
 
 ## 🪐 Cosmic GitHub Stats:
