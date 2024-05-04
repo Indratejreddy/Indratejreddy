@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There<a href="https://www.linkedin.com/in/indratejreddy/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="margin-top: 10px;">!</a>
+        <samp>&gt; Hey There<a href="https://www.linkedin.com/in/indratejreddy/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width="5%; margin-top: 10px; ">!</a>
 , I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/indratejreddy/" >Indratej Reddy</a></b>
         </samp>
