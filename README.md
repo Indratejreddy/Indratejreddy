@@ -24,16 +24,15 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 ## 🌟 Stellar Introduction: 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR4NDljMWZtajg2bGgzMGhoZTMxbmhhanl0dDNxdDN2NGFjeWN2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
+🚀 **Journeying through the stars**, I'm currently honing my coding prowess with daily doses of LeetCode challenges. #LeetCodeDaily
 
-🚀 Journeying through the stars, I'm currently honing my coding prowess with daily doses of LeetCode challenges. #LeetCodeDaily
+📚 **Amidst the cosmic chaos**, I'm delving deeper into the cosmic mysteries of Data Structures and Algorithms (DSA).
 
-📚 Amidst the cosmic chaos, I'm delving deeper into the cosmic mysteries of Data Structures and Algorithms (DSA).  
+💻 **Explore the galaxies** of my projects at [my repository hub](https://github.com/Indratejreddy?tab=repositories).
 
-💻 Explore the galaxies of my projects at [my repository hub](https://github.com/Indratejreddy?tab=repositories). 
+📝 **Care to embark on a cosmic odyssey?** Follow my cosmic chronicles on [my blog](https://indratejreddy.hashnode.dev/).
 
-📝 Care to embark on a cosmic odyssey? Follow my cosmic chronicles on [my blog](https://indratejreddy.hashnode.dev/).  
-
-📫 For any cosmic queries or collaboration opportunities, beam me a transmission via [LinkedIn](https://linkedin.com/in/indratejreddy/).  
+📫 **For any cosmic queries or collaboration opportunities**, beam me a transmission via [LinkedIn](https://linkedin.com/in/indratejreddy/).
 
 <br>
 
