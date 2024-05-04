@@ -4,8 +4,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There! I am Indratej Reddy</a></b>
-        </samp>
+ Hey There! I am Indratej Reddy</a></b>
 </h3>
 
 <p align="center"> 
