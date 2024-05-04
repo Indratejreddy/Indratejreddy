@@ -36,7 +36,7 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 <br>
 
 ## 🚀 Galactic Connections:
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQwemd4cjFweHk1aWtkaXY4YnJrcnk4cjJ4am1ncTljdWloOWpvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" style="width: 500px; height:250px; display: inline-block;">
+<img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQwemd4cjFweHk1aWtkaXY4YnJrcnk4cjJ4am1ncTljdWloOWpvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" style="width: 500px; height:250px; display: inline-block;">
 
 <p>
  <a href="https://alsiam.com" target="blank">
@@ -112,7 +112,7 @@ Venturing across the cosmic expanse, I wield the power of:
 
 
 ## 🪐 Cosmic GitHub Stats:
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvaG9jOWlmeDlqdXl1eTZmdmd2MDNkM3Aza3BpaXE5dXlxb3pxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rM0wxzvwsv5g4/giphy.gif" style="width: 500px; height:250px; display: inline-block;">
+<img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvaG9jOWlmeDlqdXl1eTZmdmd2MDNkM3Aza3BpaXE5dXlxb3pxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rM0wxzvwsv5g4/giphy.gif" style="width: 500px; height:250px; display: inline-block;">
 Embark on this cosmic journey with me, and together we'll unlock the secrets of the universe!
 
 <img src='https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/main/bgimages/original_indratejreddy_github_meme_dark.gif' style="width: 100%"/>
