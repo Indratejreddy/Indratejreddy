@@ -102,8 +102,17 @@ Venturing across the cosmic expanse, I wield the power of:
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## 🪐 Cosmic GitHub Stats:
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvaG9jOWlmeDlqdXl1eTZmdmd2MDNkM3Aza3BpaXE5dXlxb3pxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rM0wxzvwsv5g4/giphy.gif" style="width: 500px; height:250px; display: inline-block;">
 Embark on this cosmic journey with me, and together we'll unlock the secrets of the universe!
 
 <img src='https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/main/bgimages/original_indratejreddy_github_meme_dark.gif' style="width: 100%"/>
