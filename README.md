@@ -32,6 +32,7 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 📫 For any cosmic queries or collaboration opportunities, beam me a transmission via [LinkedIn](https://linkedin.com/in/indratejreddy/).  
 <br>
 
+<br>
 ## 🚀 Galactic Connections:
 <p>
  <a href="https://alsiam.com" target="blank">
