@@ -31,7 +31,8 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 
 💻 Explore the galaxies of my projects at [my repository hub](https://github.com/Indratejreddy?tab=repositories). 
 
-📝 Care to embark on a cosmic odyssey? Follow my cosmic chronicles on [my blog](https://indratejreddy.hashnode.dev/).  
+📝 Care to embark on a cosmic odyssey? 
+   Follow my cosmic chronicles on [my blog](https://indratejreddy.hashnode.dev/).  
 
 📫 For any cosmic queries or collaboration opportunities, beam me a transmission via [LinkedIn](https://linkedin.com/in/indratejreddy/).  
 
