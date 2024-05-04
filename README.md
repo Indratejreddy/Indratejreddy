@@ -78,7 +78,7 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 
 ## 🌌 Cosmic Tech Stack:
 Venturing across the cosmic expanse, I wield the power of:
-<br>
+
 
 <img align="right" src="https://media3.giphy.com/media/qNHyaJzOmLNwGWk7Zf/giphy.gif" style="width: 400px; height:200px;  display: inline-block;">
 
@@ -115,7 +115,7 @@ Venturing across the cosmic expanse, I wield the power of:
 
 ## 🪐 Cosmic GitHub Stats:
 Embark on this cosmic journey with me, and together we'll unlock the secrets of the universe!
-<br>
+<br><br><br>
 <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvaG9jOWlmeDlqdXl1eTZmdmd2MDNkM3Aza3BpaXE5dXlxb3pxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rM0wxzvwsv5g4/giphy.gif" style="width: 500px; height:250px; display: inline-block;">
 
 <img src='https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/main/bgimages/original_indratejreddy_github_meme_dark.gif' style="width: 100%"/>
