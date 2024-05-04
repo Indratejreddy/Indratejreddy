@@ -78,6 +78,7 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 
 ## 🌌 Cosmic Tech Stack:
 Venturing across the cosmic expanse, I wield the power of:
+<br>
 
 <img align="right" src="https://media3.giphy.com/media/qNHyaJzOmLNwGWk7Zf/giphy.gif" style="width: 400px; height:200px;  display: inline-block;">
 
