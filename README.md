@@ -144,7 +144,8 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 <br>
 
 ## 🛸 Cosmic Humor:
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![Animated GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRuNmFzaTU2eXI2dXB1cm43enUzZmo0aGtoaHZxY2M4YWpmY25tZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif)
+
 <br>
 ---
 
