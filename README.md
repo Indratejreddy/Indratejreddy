@@ -21,9 +21,6 @@
 Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey through the realms of code and creativity.
 <br>
 
-<div style="float: right;">
-  ![Dev: coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR4NDljMWZtajg2bGgzMGhoZTMxbmhhanl0dDNxdDN2NGFjeWN2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
-</div>
 
 ## 🌟 Stellar Introduction:
 <div style="float: right;">
