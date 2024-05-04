@@ -22,7 +22,7 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 <br>
 
 ## 🌟 Stellar Introduction: 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR4NDljMWZtajg2bGgzMGhoZTMxbmhhanl0dDNxdDN2NGFjeWN2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" style="max-width: 100%; height:50% display: inline-block;">
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR4NDljMWZtajg2bGgzMGhoZTMxbmhhanl0dDNxdDN2NGFjeWN2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" style="max-width: 100%; height:50%; display: inline-block;">
 
 🚀 **Journeying through the stars**, I'm currently honing my coding prowess with daily doses of LeetCode challenges. #LeetCodeDaily
 
@@ -40,7 +40,7 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 
 
 ## 🚀 Galactic Connections:
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQwemd4cjFweHk1aWtkaXY4YnJrcnk4cjJ4am1ncTljdWloOWpvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" style="max-width: 100%; display: inline-block;">
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQwemd4cjFweHk1aWtkaXY4YnJrcnk4cjJ4am1ncTljdWloOWpvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" style="max-width: 100%; height:50%; display: inline-block;">
 
 <p>
  <a href="https://alsiam.com" target="blank">
