@@ -36,7 +36,7 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 <br>
 
 ## 🚀 Galactic Connections:
-<img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQwemd4cjFweHk1aWtkaXY4YnJrcnk4cjJ4am1ncTljdWloOWpvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" style="width: 500px; height:250px; display: inline-block;">
+<img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpuajl4Mml0cW4yYzVlMzNwdjloNG0wd2Q1Y3Bnemg3YzR0dXU4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif" style="width: 500px; height:250px; display: inline-block;">
 
 <p>
  <a href="https://alsiam.com" target="blank">
