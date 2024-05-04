@@ -33,7 +33,7 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 📝 **Care to embark on a cosmic odyssey?** Follow my cosmic chronicles on [my blog](https://indratejreddy.hashnode.dev/).
 
 📫 **For any cosmic queries or collaboration opportunities**, beam me a transmission via [LinkedIn](https://linkedin.com/in/indratejreddy/).
-<br>
+<br><br><br>
 
 ## 🚀 Galactic Connections:
 <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdseXN1YmVhNzMxeTgxOGpodHZwNDJjbGl3eHVoNnJjMHF5bGtqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4jKn7itdV2Tvjzj6Y/giphy.gif" style="width: 500px; height:250px; display: inline-block;">
