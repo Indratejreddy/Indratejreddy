@@ -116,11 +116,12 @@ Venturing across the cosmic expanse, I wield the power of:
 ## 🪐 Cosmic GitHub Stats:
 Embark on this cosmic journey with me, and together we'll unlock the secrets of the universe!
 <br><br>
-<img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvaG9jOWlmeDlqdXl1eTZmdmd2MDNkM3Aza3BpaXE5dXlxb3pxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rM0wxzvwsv5g4/giphy.gif" style="width: 100%; display: block;">
+<img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvaG9jOWlmeDlqdXl1eTZmdmd2MDNkM3Aza3BpaXE5dXlxb3pxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rM0wxzvwsv5g4/giphy.gif" style="width: 100%;">
 
+<div>
 <img src='https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/main/bgimages/original_indratejreddy_github_meme_dark.gif' style="width: 100%"/>
-
-<picture width="100%; display:block">
+</div>
+<picture width="100%;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/7fc407f50dce0cfc5c20b64171a2b5a409c0a673/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/7fc407f50dce0cfc5c20b64171a2b5a409c0a673/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/7fc407f50dce0cfc5c20b64171a2b5a409c0a673/github-contribution-grid-snake-dark.svg">
