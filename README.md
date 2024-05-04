@@ -116,16 +116,8 @@ Venturing across the cosmic expanse, I wield the power of:
 ## 🪐 Cosmic GitHub Stats:
 Embark on this cosmic journey with me, and together we'll unlock the secrets of the universe!
 <br><br>
-<img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvaG9jOWlmeDlqdXl1eTZmdmd2MDNkM3Aza3BpaXE5dXlxb3pxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rM0wxzvwsv5g4/giphy.gif" style="width: 100%; display: inline-block;">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div>
-        
-</div>
+<img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvaG9jOWlmeDlqdXl1eTZmdmd2MDNkM3Aza3BpaXE5dXlxb3pxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rM0wxzvwsv5g4/giphy.gif" style="width: 100%; display: block;">
+
 <img src='https://raw.githubusercontent.com/Indratejreddy/IndratejReddy/main/bgimages/original_indratejreddy_github_meme_dark.gif' style="width: 100%"/>
 
 <picture width="100%">
