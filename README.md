@@ -176,7 +176,7 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 <br>
 
 <div style="background-color: #191414; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <h2 style="color: #1DB954; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🌌 Cosmos Music:</h2>
+    <h2 style="color: #1DB954; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🎶 Cosmos Music:</h2>
     <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31d7mdlg37gb7dsiprnyrmynjnau&cover_image=true&theme=novatorem&show_offline=false&background_color=191414&interchange=false&bar_color=1DB954&bar_color_cover=false" style="width: 100%; border-radius: 10px; margin-bottom: 20px;">
     </a>
