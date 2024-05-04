@@ -40,6 +40,8 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 
 
 ## 🚀 Galactic Connections:
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNhNGkxMmpkOTRzcG1mNnVkOHk2MTlxaWgyNjNwZmNwMmFnZWE1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cQhmYBg9qPaLYdqajA/giphy.gif" style="max-width: 100%; display: inline-bl
+
 <p>
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
