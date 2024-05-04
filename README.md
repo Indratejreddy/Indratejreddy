@@ -175,7 +175,7 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=indratejreddy&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d7mdlg37gb7dsiprnyrmynjnau&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d7mdlg37gb7dsiprnyrmynjnau&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🛸 Cosmic Humor:
 ![Animated GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRuNmFzaTU2eXI2dXB1cm43enUzZmo0aGtoaHZxY2M4YWpmY25tZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif)
