@@ -22,6 +22,10 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 <br>
 
 ## 🌟 Stellar Introduction:
+![Dev: coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR4NDljMWZtajg2bGgzMGhoZTMxbmhhanl0dDNxdDN2NGFjeWN2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
+
+ChatGPT
+
 🚀 Journeying through the stars, I'm currently honing my coding prowess with daily doses of LeetCode challenges. #LeetCodeDaily  
 📚 Amidst the cosmic chaos, I'm delving deeper into the cosmic mysteries of Data Structures and Algorithms (DSA).  
 💻 Explore the galaxies of my projects at [my repository hub](https://github.com/Indratejreddy?tab=repositories).  
