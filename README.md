@@ -37,29 +37,29 @@ Welcome to my cosmic corner on GitHub! 🌌 Prepare for an intergalactic journey
 <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdseXN1YmVhNzMxeTgxOGpodHZwNDJjbGl3eHVoNnJjMHF5bGtqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4jKn7itdV2Tvjzj6Y/giphy.gif" style="width: 500px; height:250px; display: inline-block;">
 
 <p>
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ <a href="https://www.linkedin.com/in/indratejreddy/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="IndratejReddy" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ <a href="https://www.linkedin.com/in/indratejreddy/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="IndratejReddy"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ <!-- <a href="https://www.linkedin.com/in/indratejreddy/m" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="IndratejReddy" />
  </a> -->
- <a href="https://twitter.com/_alsiam" target="_blank">
+ <a href="https://www.linkedin.com/in/indratejreddy/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ <a href="https://www.linkedin.com/in/indratejreddy/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="IndratejReddy" />
  </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+ <a href="https://www.linkedin.com/in/indratejreddy/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="IndratejReddy"  />
   </a> 
   <a href="https://youtube.com/@techlifejournal" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="alsiam"  />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="IndratejReddy"  />
   </a>
-  <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  <a href="https://www.linkedin.com/in/indratejreddy/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="IndratejReddy"  />
   </a>
 </p>
 <br>
