@@ -177,8 +177,6 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
 
 <div>  
  <h2 style="color: #1DB954; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🎶 Cosmos Music:</h2>
-<div style="background-color: #191414; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtna2hweWk5ZHU1ajMzZmFraXlkajQ3dGRpY28ybXNlZWZ1eDVjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oTcESYsgkjU1W/giphy.gif" style="width: 100%; border-radius: 10px; margin: auto; display:block;">
     <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31d7mdlg37gb7dsiprnyrmynjnau&cover_image=true&theme=novatorem&show_offline=false&background_color=191414&interchange=false&bar_color=1DB954&bar_color_cover=false" style="width: 100%; border-radius: 10px; margin-bottom: 20px;">
@@ -186,7 +184,7 @@ Embark on this cosmic journey with me, and together we'll unlock the secrets of 
     <a href="https://spotify-recently-played-readme.vercel.app/api?user=31d7mdlg37gb7dsiprnyrmynjnau&width=800">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d7mdlg37gb7dsiprnyrmynjnau&width=800" style="width: 100%; border-radius: 10px;">
     </a>
-</div>
+
 </div> 
 
 
